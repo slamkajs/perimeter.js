@@ -46,7 +46,7 @@
                     posX < ((maxLeft + perimeter.rects.width) + (outline[1] + outline[3]))
                 ) {
                     perimeter.breaches.push([posX, posY]);
-                    perimeter.trigger('breach');
+                    perimeter.trigger('breach', this.event);
                     perimeter.alarm = true;
                 }
                 break;
