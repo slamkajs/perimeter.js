@@ -1,4 +1,4 @@
-#This is a modified version of Perimeter.js to allow for moving targets.
+####*This is a modified version of Perimeter.js to allow for moving targets.*
 Perimeter.js
 ====
 <blockquote>
